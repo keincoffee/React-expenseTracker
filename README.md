@@ -1,2 +1,2 @@
-# react-course
-Repo for Kei's React Learning
+# React-Expense Tracker
+Repo for Kei's React Expense Tracker Learning Project
